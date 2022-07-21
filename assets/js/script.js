@@ -31,6 +31,8 @@ function generatePassword() {
       alert("Please choose valid option.")
     }
   }
+
+  return "OKKKKKKKK"
   
 
   // do {
