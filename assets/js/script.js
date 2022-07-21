@@ -85,10 +85,7 @@ function generatePassword() {
             current_char = special_chars[Math.floor(Math.random()*special_chars.length)];
       }
       password = password + current_char;
-      console.log("check")
   }
-
-  console.log(password);
 
   return password
   
