@@ -1,18 +1,18 @@
 # Project Title
 
-Baer Lanfried Webpage Project
+Password Generator Project
 
 ## Description
 
-I made a webpage with sections for discussing myself, my projects, and ways to contact me.
+I made a password generator with multiple choices to customize the password the user wants to create.
 
 ### Githup Repository URL
-https://github.com/blanfried/Baer-Lanfried-Webpage
+https://github.com/blanfried/Password-Generator-Project/settings
 
 ### Deployed URL
-https://blanfried.github.io/Baer-Lanfried-Webpage/
+https://blanfried.github.io/Password-Generator-Project/
 
 
 
 ### Webpage Screenshot
-![Webpage Screenshot](./assets/images/Webpage%20Screenshot.png)
+![Password Gen Screenshot](./assets/images/Password%20Generator%20Screenshot.png)
